@@ -12,5 +12,6 @@ O objetivo desse repositório é apresentar uma série de exemplos ensinando o b
 
 ## Notebooks (Google Colab)
 
-1. [Carregar imagens no colab e tornar a imagem em tons de cinza](https://colab.research.google.com/github/lucaslattari/Python_OpenCV4/blob/master/01_black_and_white.ipynb)
-2. [Sobre canais de cor, manipulação de pixels e crop](https://colab.research.google.com/github/lucaslattari/Python_OpenCV4/blob/master/02_basics_of_images.ipynb)
+1. [Carregar imagens no colab e tornar a imagem em tons de cinza](https://colab.research.google.com/drive/12F30VRoCQnNEowMZDtymmh8aNIK5LMq7)
+2. [Sobre canais de cor, manipulação de pixels e crop](https://colab.research.google.com/drive/18DTjxpA5ahDaBZUWxkSUu6ZgkqvdkFt0)
+3. [Trabalhando com vídeos e sobreposição de imagens](https://colab.research.google.com/drive/1sQAxhv5nIWDvwt82osa2x41zVtUFyx1O)
