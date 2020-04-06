@@ -93,8 +93,35 @@ def plotThreeImages():
     titlesArray = ['Imagem Original', 'Imagem com Borda Replicada', 'Imagem com Borda de Espelho', '']
     showMultipleImageGrid(imgsArray, titlesArray, 2, 2)
 
+def plotFourImages():
+    imgOriginal = cv2.imread("ada.jpg")
+    imgReplicate = cv2.copyMakeBorder(imgOriginal, 100, 100, 100, 100, cv2.BORDER_REPLICATE)
+    imgReflect = cv2.copyMakeBorder(imgOriginal, 100, 100, 100, 100, cv2.BORDER_REFLECT)
+    imgReflect101 = cv2.copyMakeBorder(imgOriginal, 100, 100, 100, 100, cv2.BORDER_REFLECT_101)
+
+    #criando grid com 4 imagens, a segunda com borda replicada e a terceira e quarta com borda de espelho
+    imgsArray = [imgOriginal, imgReplicate, imgReflect, imgReflect101]
+    titlesArray = ['Imagem Original', 'Imagem com Borda Replicada', 'Imagem com Borda de Espelho', 'Imagem com Borda de Espelho Diferente']
+    showMultipleImageGrid(imgsArray, titlesArray, 2, 2)
+
+def plotSixImages():
+    imgOriginal = cv2.imread("ada.jpg")
+    imgReplicate = cv2.copyMakeBorder(imgOriginal, 100, 100, 100, 100, cv2.BORDER_REPLICATE)
+    imgReflect = cv2.copyMakeBorder(imgOriginal, 100, 100, 100, 100, cv2.BORDER_REFLECT)
+    imgReflect101 = cv2.copyMakeBorder(imgOriginal, 100, 100, 100, 100, cv2.BORDER_REFLECT_101)
+    imgWrap = cv2.copyMakeBorder(imgOriginal, 100, 100, 100, 100, cv2.BORDER_WRAP)
+
+    BLUE = [255, 0, 0]
+    imgConstant = cv2.copyMakeBorder(imgOriginal, 100, 100, 100, 100, cv2.BORDER_CONSTANT, value = BLUE)
+
+    #criando grid com 6 imagens, a segunda com borda replicada e a terceira e quarta com borda de espelho
+    #constant insere uma moldura e wrap só olhando pra entender =)
+    imgsArray = [imgOriginal, imgReplicate, imgReflect, imgReflect101, imgConstant, imgWrap]
+    titlesArray = ['Original', 'Borda Replicada', 'Borda de Espelho', 'Borda de Espelho 2', 'Moldura', 'Efeito Wrap']
+    showMultipleImageGrid(imgsArray, titlesArray, 3, 2)
+
 def main():
-    plotSingleImage()
+    plotSixImages()
 
 if __name__ == "__main__":
     main()
