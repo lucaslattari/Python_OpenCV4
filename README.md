@@ -8,8 +8,9 @@ O objetivo desse repositório é apresentar uma série de exemplos ensinando o b
 | -------|:------------------------------------:|:------:|:------------:|
 | 1      | Criação de projeto local e em Google Colab; Carregar e salvar imagens; | [![Vídeo 01 da série de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/oAH_GJclePY/mqdefault.jpg)](http://www.youtube.com/watch?v=oAH_GJclePY) | [Clique aqui](https://universodiscreto.com/2020/02/13/instalando-e-criando-seu-primeiro-projeto-python-e-opencv4-00/)|
 | 2      | Transformar imagens em tons de cinza ; Manipular pixels ; Extrair região de interesse (crop) | [![Vídeo 02 da série de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/mW-PmvvzXP8/mqdefault.jpg)](http://www.youtube.com/watch?v=mW-PmvvzXP8) | [Clique aqui](https://universodiscreto.com/2020/02/16/operacoes-basicas-envolvendo-imagens-python-e-opencv4-01/)|
-| Live 1 | Manipulação de imagens e vídeos ; Redimensionamento de imagens ; Sobreposição de imagens | [![Live de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/8TOH40sq-C0/mqdefault.jpg)](http://www.youtube.com/watch?v=8TOH40sq-C0) | Não disponível no momento  |
+| Live 1 | Manipulação de imagens e vídeos ; Redimensionamento de imagens ; Sobreposição de imagens | [![Live 1 de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/8TOH40sq-C0/mqdefault.jpg)](http://www.youtube.com/watch?v=8TOH40sq-C0) | Não disponível no momento  |
 | 3      | Trabalhando com Grids de imagens ; Padding (borda de imagem) | [![Vídeo 01 da série de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/U35qns3LvvI/mqdefault.jpg)](https://www.youtube.com/watch?v=U35qns3LvvI) | Não disponível no momento |
+| Live 2 | Detecção de Faces e Reconhecimento de Faces | [![Live 2 de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/t9Et8YwKHgU/mqdefault.jpg)](https://www.youtube.com/watch?v=t9Et8YwKHgU) | Não disponível no momento  |
 
 ## Notebooks (Google Colab)
 
