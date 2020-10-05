@@ -12,6 +12,8 @@ O objetivo desse repositório é apresentar uma série de exemplos ensinando o b
 | 3      | Trabalhando com Grids de imagens ; Padding (borda de imagem) | [![Vídeo 03 da série de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/U35qns3LvvI/mqdefault.jpg)](https://www.youtube.com/watch?v=U35qns3LvvI) | Não disponível no momento |
 | Live 2 | Detecção de Faces e Reconhecimento de Faces | [![Live 2 de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/t9Et8YwKHgU/mqdefault.jpg)](https://www.youtube.com/watch?v=t9Et8YwKHgU) | Não disponível no momento  |
 | 4      | Soma de Imagens ; Blending (Transparência) | [![Vídeo 04 da série de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/60k962jJAmE/mqdefault.jpg)](http://www.youtube.com/watch?v=60k962jJAmE) | Não disponível no momento |
+| 5      | Ferramentas de Desenho (Círculo e Elipse) | [![Vídeo 05 da série de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/A652qZ9r9GY/mqdefault.jpg)](http://www.youtube.com/watch?v=A652qZ9r9GY) | Não disponível no momento |
+| 6      | Ferramentas de Desenho (Linha, Retângulo, Polígono) | [![Vídeo 06 da série de Python & OpenCV do canal Universo Discreto](https://img.youtube.com/vi/LUICgtok8QE/mqdefault.jpg)](http://www.youtube.com/watch?v=LUICgtok8QE) | Não disponível no momento |
 
 ## Notebooks (Google Colab)
 
